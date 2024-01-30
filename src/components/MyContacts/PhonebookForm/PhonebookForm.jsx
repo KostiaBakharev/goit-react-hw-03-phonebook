@@ -4,7 +4,6 @@ import { Component } from 'react';
 const INITIAL_STATE = {
   name: '',
   number: '',
-  filter: '',
 };
 
 class PhonebookForm extends Component {
