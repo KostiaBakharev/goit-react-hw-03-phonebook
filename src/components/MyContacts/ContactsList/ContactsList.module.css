@@ -1,0 +1,27 @@
+.list {
+  font-size: 18px;
+  padding: 15px;
+}
+
+.item {
+  margin-bottom: 15px;
+  display: flex;
+  font-weight: 600;
+  justify-content: space-between;
+}
+
+.button {
+  width: 75px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 3px;
+  transition: background-color 0.3s;
+  background-color: rgb(176, 177, 177);
+}
+
+.button:hover {
+  /* filter: brightness(75%); */
+  background-color: rgb(219, 62, 62);
+}

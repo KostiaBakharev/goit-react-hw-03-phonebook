@@ -1,0 +1,13 @@
+.container {
+  /* max-width: 100%; */
+  width: 500px;
+  padding: 15px;
+  background-color: #ebe5e5;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
